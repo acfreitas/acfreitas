@@ -1,10 +1,13 @@
 layout: oishi
 title: Criando um blog com GitHub Pages e Hexo em menos de 10 passos
 date: 2015-02-06 10:44:46
-tags: GitHub
+tags: 
+- GitHub
+- Hexo
 ---
 Já pensou em criar um site/blog em menos 10 minutos? De forma fácil, grátis e com deployment continuous?
 
+<!-- more -->
 Em um bate-papo com um grande amigo e frontender [Michael Villander](http://villander.github.io) onde discutíamos algumas ferramentas e a grande importância sobre os profissionais da nossa área contribuírem com a comunidade (um ótimo assunto pra mais tarde) decidi criar um artigo ensinado você criar um blog de forma fácil e espero que, com isso, você possa contribuir/divulgar/aprender/testar algo legal.
 
 Pois bem, o GitHub tem um serviço excepcional, o [GitHub Pages](https://pages.github.com/). Onde você pode hospedar páginas estáticas, com JavaScript, HTML, CSS e imagens. Com ele você pode criar o seu blog baseado nos templates existentes ou utilizar algum framework como [Hexo](http://hexo.io/) (pra você que é Jedi em JavaScript) ou [Jekyll](http://jekyllrb.com/) (pra você que se diverte com Ruby). Como usei o Hexo, vamos utilizá-lo neste post.
@@ -15,7 +18,7 @@ Blá, blá, blá…. Vamos ao que interessa, né?!
 
 2 - Instale o Hexo com o comando ``$ npm install hexo -g`` (vale lembrar que você vai precisar do Node.js e Git instalados)
 
-3 - Inicialize o Hexo com o comando hexo ``$ init username.github.io``, acesso o repositório e faça o build com ``$ npm install``
+3 - Inicialize o Hexo com o comando ``$ hexo init username.github.io``, acesso o repositório e faça o build com ``$ npm install``
 
 4 - Configure o seu arquivo ``_config.yml`` com as informações do seu blog e em deploy, adicione o repositório criado anteriormente
 ``` 
