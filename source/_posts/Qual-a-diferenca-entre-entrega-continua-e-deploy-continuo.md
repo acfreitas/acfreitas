@@ -7,7 +7,6 @@ tags:
 - Integração Contínua
 - Agile
 ---
-
 Nos últimos anos se tem falado muito sobre [entrega contínua](http://martinfowler.com/books/continuousDelivery.html) e [deploy contínuo](http://guide.agilealliance.org/guide/cd.html) como importantes práticas ágeis. Porém tenho percebido que muitos confundem os objetivos e formas de implantar cada uma das práticas (e confesso, que também já me enganei). Pois existem algumas coisas em comum entre as duas práticas, como: são uma extensão da [integração contínua](http://www.martinfowler.com/articles/continuousIntegration.html), dependem de automação, da colaboração entre as equipes de operações, desenvolvimento e QA, tem um pipeline, visam diminuir os ciclos de feedbacks, aumentam os feedbacks, diminuem os riscos de uma entrega, aumentam a qualidade e confiança do projeto, aumentam a frequência de entrega de valor ao usuário, diminuem os ciclos de respostas as mudanças e etc.
 
 <!-- more -->
