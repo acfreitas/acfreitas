@@ -8,11 +8,10 @@ tags:
 Após algum tempo trabalhando como QA, recentemente descobri o ___buzzword___ DevOps e desde então venho estudando o assunto. No último sábado, 25/04, aconteceu em Goiânia o FLISOL e eu tive a oportunidade de falar um pouco sobre DevOps e QA.  
 
 ### Espera aí, o que é DevOps?
-
-![DevOps](/images/O-Impacto-da-adocao-de-DevOps-na-qualidade.png)
-
 DevOps é uma metodologia/cultura/movimento/conceito/filosofia (sim, não é trivial definir o que é o [DevOps](http://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/)) de desenvolvimento de software baseada na comunicação, colaboração e integração entre cliente, desenvolvimento, operação e qualidade. 
 DevOps visa a independência de cada equipe citada acima, desenvolvendo software e obtendo feedbacks de novas releases mais rapidamente. Para isso, um dos objetivos do DevOps é automatizar os processos relacionados a integração e entrega de uma nova release, dando maior flexibilidade, agilidade e [confiança](http://acfreitas.com/2015/04/Aumentando-a-confianca-do-time-com-DevOps/) no que foi implementado
+
+![DevOps](/images/O-Impacto-da-adocao-de-DevOps-na-qualidade.png)
 
 <!-- more -->
 
