@@ -2,6 +2,10 @@ layout: oishi
 title: Provisionando um servidor Oracle com Vagrant e Shell
 date: 2015-03-27 11:35:32
 tags:
+- Vagrant
+- DevOps
+- Oracle
+- VirtualBox
 ---
 Recentemente precisei criar um servidor Oracle para testes. Quem já trabalhou ou trabalha com Oracle sabe o quão oneroso é tal atividade. Como não queria passar por isso novamente, resolvi automatizar (ainda mais tendo certeza que seria necessário criar novos servidores). 
 
